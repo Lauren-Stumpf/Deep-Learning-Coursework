@@ -11,8 +11,7 @@ This summative assignment was assessed and marked by the professor of the module
 > intuitive generated images between a diverse set of samples." - Dr Chris G. Willcocks
 
 ## Paper Abstract:
-After successfully implementing and experimenting with two flow-based generative models [1], namely Glow [6] and the multi-scale augmented normalizing flow proposed in [9], and various variational autoencoder (VAE)
-[5] architectures, the study moved on to Generative Adversarial Networks. This paper proposes using a StyleGAN2 architecture in combination with an adaptive discriminator augmentation (ADA) mechanism trained on the
+This paper proposes using a StyleGAN2 architecture in combination with an adaptive discriminator augmentation (ADA) mechanism trained on the
 FFHQ dataset. This mechanism passes the images shown to the discriminator through an augmentation pipeline and dynamically adjusts the strength of augmentation. We produce realistic interpolation and achieve a reasonable balance between diversity and quality of images
 
 All models were implemented with the goal of generating diverse and realistic images from the FFHQ dataset given severe computational limitations (access to one NVIDIA TITAN Xp or an NVIDIA GeForce RTX 2080 for a maximum of three training days).
