@@ -28,6 +28,12 @@ All models were implemented with the goal of generating diverse and realistic im
 ![Generated Images 2](images/complete_2.png?raw=true "Generated Images 2")
 ![Generated Images 3](images/complete_3.png?raw=true "Generated Images 3")
 ![Generated Final](images/final.png?raw=true "Final")
-![Generated Images 3](images/inter_1 (1).png?raw=true "Interpolated 1")
+![Interpolated Images 1](images/inter_1.png?raw=true "Interpolated 1")
+![Interpolated Images 2](images/inter_2.png?raw=true "Interpolated 2")
+![Interpolated Images 3](images/inter_3.png?raw=true "Interpolated 3")
+![Interpolated Images 4](images/inter_4.png?raw=true "Interpolated 4")
+![Interpolated Images 5](images/inter_5.png?raw=true "Interpolated 5")
+![Interpolated Images 6](images/inter_6.png?raw=true "Interpolated 6")
+![Interpolated Images 7](images/inter_7.png?raw=true "Interpolated 7")
 
 
