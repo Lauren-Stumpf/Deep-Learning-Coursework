@@ -24,14 +24,14 @@ All models were implemented with the goal of generating diverse and realistic im
     - [lucidrains](https://github.com/NVlabs/stylegan2-ada-pytorch/)' original implementation - https://github.com/NVlabs/stylegan2-ada-pytorch.
 
 ## Results (taken from pegasus-paper.pdf):
-> Best Images Generated
+* Best Images Generated
 ![Generated Images 1](images/complete_1.png?raw=true "Generated Images 1")
 ![Generated Images 2](images/complete_2.png?raw=true "Generated Images 2")
 ![Generated Images 3](images/complete_3.png?raw=true "Generated Images 3")
-> Random Sample of Images Generated
+* Random Sample of Images Generated
 ![Generated Final](images/final.png?raw=true "Final")
-> Interpolated Images 
- * This is done by linearly interpolating between points in the w latent space 
+* Interpolated Images 
+    * This is done by linearly interpolating between points in the w latent space 
 ![Interpolated Images 1](images/inter_1.png?raw=true "Interpolated 1")
 ![Interpolated Images 2](images/inter_2.png?raw=true "Interpolated 2")
 ![Interpolated Images 3](images/inter_3.png?raw=true "Interpolated 3")
