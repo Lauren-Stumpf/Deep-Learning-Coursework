@@ -1,4 +1,5 @@
-# Generative Modelling: Generating realistic images with computational limitations
+# Generative Modelling: Generating Realistic Images with Computational Limitations and Interpolating Between Them. 
+
 Submitted as part of the degree of Msci Natural Sciences (3rd year) to the Board of Examiners in the Department of Computer Sciences, Durham University. 
 This summative assignment was assessed and marked by the professor of the module in question:
 ## Grade: 1st - 100/100 (100 + bonus of 4), 1st in year (of 136 students).
