@@ -17,7 +17,7 @@ FFHQ dataset. This mechanism passes the images shown to the discriminator throug
 All models were implemented with the goal of generating diverse and realistic images from the FFHQ dataset given severe computational limitations (access to one NVIDIA TITAN Xp or an NVIDIA GeForce RTX 2080 for a maximum of three training days).
 
 ## Contents:
-* deep_learning_paper.pdf - Paper reporting findings and methodology of the study, "Generating Images using StyleGAN2 + ADA".
+* styleGAN2_paper.pdf - Paper reporting findings and methodology of the study, "Generating Images using StyleGAN2 + ADA".
 * source-code/ - Folder containing the herein modified version of lucidrains' implementation of state-of-the-art StyleGAN2 + ADA proposed in ICLR 2021 (this source-code has yet to be cleaned and commented, apologies). Credits for paper and code go to:
     - StyleGAN2 + ADA paper - [Training Generative Adversarial Networks with Limited Data](https://arxiv.org/pdf/2006.06676.pdf).
     - [lucidrains](https://github.com/NVlabs/stylegan2-ada-pytorch/)' original implementation - https://github.com/NVlabs/stylegan2-ada-pytorch.
