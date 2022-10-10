@@ -1,4 +1,4 @@
-# Generative Modelling: Generating Realistic Images with Computational Limitations and Interpolating Between Them. 
+# Generative Modelling: Generating Realistic Images with Hardware Limitations and Interpolating Between Them. 
 
 Submitted as part of the degree of Msci Natural Sciences (3rd year) to the Board of Examiners in the Department of Computer Sciences, Durham University. 
 This summative assignment was assessed and marked by the professor of the module in question:
@@ -18,11 +18,11 @@ All models were implemented with the goal of generating diverse and realistic im
 
 ## Contents:
 * styleGAN2_paper.pdf - Paper reporting findings and methodology of the study, "Generating Images using StyleGAN2 + ADA".
-* source_code/ - Folder containing the modified version of te state-of-the-art StyleGAN2 + ADA proposed in ICLR 2021 (this source-code has yet to be cleaned and commented, apologies). I have mainly condensed the code and have made it more suitable for a single GPU as per the assignment. Credits for paper and code go to:
+* source_code/ - Folder containing the modified version of the state-of-the-art StyleGAN2 + ADA proposed in ICLR 2021 (this source-code has yet to be cleaned and commented, apologies). Credits for paper and code go to:
     - StyleGAN2 + ADA paper - [Training Generative Adversarial Networks with Limited Data](https://arxiv.org/pdf/2006.06676.pdf).
     - [lucidrains](https://github.com/NVlabs/stylegan2-ada-pytorch/)' original implementation - https://github.com/NVlabs/stylegan2-ada-pytorch.
 
-## Results (taken from pegasus-paper.pdf):
+## Results (taken from styleGAN2_paper.pdf):
 * Best Images Generated
 ![Generated Images 1](images/complete_1.png?raw=true "Generated Images 1")
 ![Generated Images 2](images/complete_2.png?raw=true "Generated Images 2")
