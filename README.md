@@ -2,7 +2,7 @@
 
 Submitted as part of the degree of Msci Natural Sciences (3rd year) to the Board of Examiners in the Department of Computer Sciences, Durham University. 
 This summative assignment was assessed and marked by the professor of the module in question:
-## Grade: 1st - 100/100 (100 + bonus of 4), 1st in year (of 136 students).
+## Grade: 1st - 100/100, 1st in year (of 136 students).
 > "This is a perfect GAN-based submission, where you’ve clearly done a significant amount of research by
 > reading of state-of-the-art peer-reviewed literature from top venues (CVPR, ICCV, NeurIPS). The samples
 > have excellent diversity with very good coverage and few issues, usually only noticable in the backgrounds
